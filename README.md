@@ -23,13 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<<<<<<< HEAD
 <img src='https://github.com/web102_prework/pre-wrokCODEPATH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-=======
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Video Walkthrough](/pre-wrokCODEPATH.gif)
->>>>>>> e5f7a4dae7450a1b7ae1a9ac59d9a6fb1b18fe8f
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
