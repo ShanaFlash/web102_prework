@@ -25,6 +25,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://github.com/web102_prework/pre-wrokCODEPATH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![Video](/pre-wrokCODEPATH.gif)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCat
 <!-- Recommended tools:
